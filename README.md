@@ -20,7 +20,7 @@ Namijenjen je novinarima, partnerima, integratorima (burze, novčanici, blok-exp
 
 ## Brand sustav
 
-- **Kuna (marten)** — bijela silueta kune u trku, omaž **starim hrvatskim kovanicama** (kuna je bila na novčanicama i kovanicama; kuna kao životinja je i etimološki korijen imena valute — krzno kune bilo je srednjovjekovno sredstvo plaćanja). Životinja, a ne tuđi simbol, nosi identitet.
+- **Kuna (marten)** — bijela silueta kune zlatice (*Martes martes*) **u trku nadesno**, kao na **aversu hrvatskih kovanica od 1, 2 i 5 kuna** (gdje je trčeća kuna nosila brojčanu vrijednost). Kuna kao životinja etimološki je korijen imena valute — krzno kune bilo je srednjovjekovno sredstvo plaćanja. Životinja, a ne tuđi simbol, nosi identitet.
 - **Novčić** — tamnoplavi disk (`#002F6C`) na kojem kuna stoji, evocira kovanicu.
 - **Crveni rub** — Aircash-crveni (`#E40000`) rub novčića. Crvena je zajednička točka Aircash brenda i hrvatske zastave.
 - **Bijela pozadina sa zaobljenim kutovima** — radijus 32 na platnu 512 × 512 (varijanta `dark` ima tamnu pozadinu `#0B0E14`).
@@ -107,6 +107,10 @@ brew install librsvg
 Sadržaj ovog repozitorija (logotipi, izvorne datoteke i dokumentacija) licenciran je pod **[Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.hr)**.
 
 Smijete **dijeliti** (kopirati i redistribuirati u bilo kojem mediju ili formatu, uključujući komercijalnu upotrebu) uz **atribuciju** i **bez prerada** (izmijenjeni materijal ne smijete distribuirati). Puni tekst: [`LICENSE`](LICENSE).
+
+## Atribucija
+
+Silueta kune izvedena je iz vektora **„Marten"** s [Openclipart](https://openclipart.org/detail/248669/marten), objavljenog pod **CC0 1.0 (Public Domain)** — zrcaljena nadesno i prilagođena u boji. CC0 ne zahtijeva atribuciju; navodimo je radi transparentnosti.
 
 ## O brendu i nazivima
 
