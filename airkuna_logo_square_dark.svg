@@ -1,18 +1,29 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- airKUNA — logo za tamne pozadine -->
+  <!-- airKUNA — logo za tamne pozadine. -->
   <rect width="512" height="512" rx="32" fill="#0B0E14"/>
 
-  <!-- blockchain prsten: segmenti = blokovi -->
-  <circle cx="256" cy="256" r="188" fill="none" stroke="#C8102E"
-          stroke-width="16" stroke-dasharray="73 45" stroke-linecap="butt"/>
+  <!-- novčić -->
+  <circle cx="256" cy="256" r="150" fill="#002F6C"/>
+  <!-- Aircash-crveni rub novčića -->
+  <circle cx="256" cy="256" r="145" fill="none" stroke="#E40000" stroke-width="9"/>
 
-  <!-- euro novčić (svijetli) -->
-  <circle cx="256" cy="256" r="150" fill="#FFFFFF"/>
-
-  <!-- znak eura -->
-  <g fill="none" stroke="#0F1E3D" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M318 206 Q206 206 206 256 Q206 306 318 306" stroke-width="32"/>
-    <line x1="184" y1="240" x2="320" y2="240" stroke-width="15"/>
-    <line x1="184" y1="270" x2="320" y2="270" stroke-width="15"/>
+  <!-- silueta kune (marten), trči desno -->
+  <g transform="translate(258,254) scale(0.78) translate(-235,-233.5)">
+    <path fill="#FFFFFF" d="
+      M 384 246
+      Q 368 230 351 226 L 344 205 L 333 224
+      Q 314 219 298 222
+      Q 262 206 224 212
+      Q 202 215 188 220
+      Q 150 186 116 158 Q 100 146 88 142
+      Q 80 146 86 158
+      Q 104 176 140 204 Q 168 226 186 240
+      Q 188 258 180 282 L 170 324 L 191 325
+      Q 201 297 211 270 Q 216 256 227 255
+      Q 258 266 289 256
+      Q 302 258 313 283 L 325 325 L 346 322
+      Q 342 295 339 270 Q 337 257 345 251
+      Q 362 250 384 246 Z
+    "/>
   </g>
 </svg>
